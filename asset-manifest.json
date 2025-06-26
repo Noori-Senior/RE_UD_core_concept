@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Noori-Senior/RE_UD_core_concept.git/static/css/main.ad4bbdcc.css",
-    "main.js": "/Noori-Senior/RE_UD_core_concept.git/static/js/main.4aa429fd.js",
-    "static/js/453.64512fd7.chunk.js": "/Noori-Senior/RE_UD_core_concept.git/static/js/453.64512fd7.chunk.js",
+    "main.js": "/Noori-Senior/RE_UD_core_concept.git/static/js/main.12dab472.js",
+    "static/js/453.183908db.chunk.js": "/Noori-Senior/RE_UD_core_concept.git/static/js/453.183908db.chunk.js",
     "index.html": "/Noori-Senior/RE_UD_core_concept.git/index.html",
     "main.ad4bbdcc.css.map": "/Noori-Senior/RE_UD_core_concept.git/static/css/main.ad4bbdcc.css.map",
-    "main.4aa429fd.js.map": "/Noori-Senior/RE_UD_core_concept.git/static/js/main.4aa429fd.js.map",
-    "453.64512fd7.chunk.js.map": "/Noori-Senior/RE_UD_core_concept.git/static/js/453.64512fd7.chunk.js.map"
+    "main.12dab472.js.map": "/Noori-Senior/RE_UD_core_concept.git/static/js/main.12dab472.js.map",
+    "453.183908db.chunk.js.map": "/Noori-Senior/RE_UD_core_concept.git/static/js/453.183908db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad4bbdcc.css",
-    "static/js/main.4aa429fd.js"
+    "static/js/main.12dab472.js"
   ]
 }
